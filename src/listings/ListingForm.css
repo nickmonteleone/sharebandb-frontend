@@ -1,0 +1,10 @@
+.ListingForm-error{
+  display:flex;
+  font-size: x-small;
+  flex-direction: column;
+  align-items: start;
+}
+
+.ListingForm-field{
+  margin-bottom: 5px;
+}
